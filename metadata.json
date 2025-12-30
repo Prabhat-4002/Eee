@@ -1,0 +1,8 @@
+{
+  "name": "Copy of QFD - Quick Food Delivery",
+  "description": "A high-speed food and grocery delivery application with multi-language support, real-time tracking, and automated delivery fee calculation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}

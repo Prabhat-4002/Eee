@@ -1,0 +1,16 @@
+
+{
+  "name": "qfd-food-delivery",
+  "version": "1.0.0",
+  "description": "Quick Food Delivery app with Gemini AI features.",
+  "dependencies": {
+    "@google/genai": "^1.34.0",
+    "lucide-react": "^0.475.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "firebase": "^11.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
